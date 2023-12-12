@@ -1,0 +1,47 @@
+Opinions				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	1	0	1	1
+LMX, NSAIF (w/ QAIF)	1	0	1	1
+LMX, NSAIF	1	0	1	1
+LMX, ROUGE-L (w/ QAIF)	1	0	1	1
+LMX, ROUGE-L	1	0	1	1
+LMX, Quality-Only	1	0	1	1
+Random-Search	1	0	1	1
+Shuffling-Few-Shot	1	0	1	1
+Fixed-Few-Shot	1	0	1	1
+				
+Stories - Genre				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	1	0	1	1
+LMX, NSAIF (w/ QAIF)	0.89	0.03286335345	0.82	0.94
+LMX, NSAIF	0.91	0.0219089023	0.87	0.95
+LMX, ROUGE-L (w/ QAIF)	0.9	0.01414213562	0.87	0.93
+LMX, ROUGE-L	0.94	0.00894427191	0.92	0.95
+LMX, Quality-Only	0.85	0.02828427125	0.79	0.9
+Random-Search	0.89	0.0219089023	0.85	0.93
+Shuffling-Few-Shot	0.88	0.0228035085	0.83	0.92
+Fixed-Few-Shot	0.9	0.02	0.86	0.94
+				
+Stories - Ending				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	1	0	1	1
+LMX, NSAIF (w/ QAIF)	1	0	1	1
+LMX, NSAIF	1	0	1	1
+LMX, ROUGE-L (w/ QAIF)	1	0	1	1
+LMX, ROUGE-L	1	0	1	1
+LMX, Quality-Only	0.98	0.01095445115	0.96	1
+Random-Search	1	0	1	1
+Shuffling-Few-Shot	0.95	0.02449489743	0.9	0.99
+Fixed-Few-Shot	0.97	0.01095445115	0.95	0.99
+				
+Stories - Genre & Ending				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	0.774	0.003577708764	0.766	0.78
+LMX, NSAIF (w/ QAIF)	0.734	0.02273323558	0.69	0.778
+LMX, NSAIF	0.68	0.00938083152	0.666	0.7
+LMX, ROUGE-L (w/ QAIF)	0.648	0.00593295879	0.638	0.66
+LMX, ROUGE-L	0.634	0.00876356092	0.616	0.65
+LMX, Quality-Only	0.542	0.02931211354	0.486	0.604
+Random-Search	0.592	0.0158492902	0.562	0.622
+Shuffling-Few-Shot	0.546	0.0045607017	0.536	0.554
+Fixed-Few-Shot	0.57	0.00894427191	0.552	0.588

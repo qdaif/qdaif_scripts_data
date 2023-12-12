@@ -1,0 +1,31 @@
+Opinions				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	1	0	1	1
+LMX, Quality-Only	1	0	1	1
+Random-Search	1	0	1	1
+Shuffling-Few-Shot	1	0	1	1
+Fixed-Few-Shot	1	0	1	1
+				
+Stories - Genre				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	1	0	1	1
+LMX, Quality-Only	0.85	0.02828427125	0.79	0.9
+Random-Search	0.89	0.0219089023	0.85	0.93
+Shuffling-Few-Shot	0.88	0.0228035085	0.83	0.92
+Fixed-Few-Shot	0.9	0.02	0.86	0.94
+				
+Stories - Ending				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	1	0	1	1
+LMX, Quality-Only	0.9800000000000001	0.010954451150103331	0.96	1.0
+Random-Search	1.0	0.0	1.0	1.0
+Shuffling-Few-Shot	0.95	0.024494897427831782	0.9	0.99
+Fixed-Few-Shot	0.97	0.010954451150103331	0.95	0.99
+				
+Stories - Genre and Ending				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+QDAIF	0.774	0.003577708764	0.766	0.78
+LMX, Quality-Only	0.542	0.02931211354	0.486	0.604
+Random-Search	0.592	0.0158492902	0.562	0.622
+Shuffling-Few-Shot	0.546	0.0045607017	0.536	0.554
+Fixed-Few-Shot	0.57	0.00894427191	0.552	0.588

@@ -1,0 +1,17 @@
+Opinions				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+Zero-Shot Init, LMX Quality-Only	19.34499475	0.08145802842	19.17187489	19.49070645
+Zero-Shot Init, QDAIF	19.93011162	0.01724087532	19.89622611	19.96256977
+Seeded Init, QDAIF	19.93966962	0.01529384803	19.91001242	19.96932682
+				
+Stories - Genre				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+Zero-Shot Init, LMX Quality-Only	14.25409688	0.6239917521	12.88535434	15.13642496
+Zero-Shot Init, QDAIF	18.44402235	0.6430311631	17.06045784	19.52068792
+Seeded Init, QDAIF	19.51847184	0.07953330355	19.36291673	19.66705561
+				
+Stories - Ending				
+Type	Last Point Mean	Last Point Standard Error	Mean Bootstrap CI Lower	Mean Bootstrap CI Higher
+Zero-Shot Init, LMX Quality-Only	17.26141023	0.175054392	16.88659344	17.56457499
+Zero-Shot Init, QDAIF	19.78404741	0.04368231228	19.69764511	19.87044971
+Seeded Init, QDAIF	19.85891638	0.03026166045	19.80547551	19.92287298
